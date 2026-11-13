@@ -83,7 +83,9 @@
     "image_urls": [
       "https://raw.githubusercontent.com/badbunny00007/Licking-Arrow/main/instagram-posts/boss_00.jpg"
     ],
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-11-13T17:13:32+00:00",
+    "media_id": "17941204029402944"
   },
   {
     "type": "image",
